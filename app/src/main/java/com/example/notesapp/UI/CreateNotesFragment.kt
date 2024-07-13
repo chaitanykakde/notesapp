@@ -28,6 +28,8 @@ class CreateNotesFragment : Fragment() {
     ): View? {
         binding=FragmentCreateNotesBinding.inflate(layoutInflater,container,false)
         return binding.root
+
+
     }
 
 
